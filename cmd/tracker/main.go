@@ -8,6 +8,7 @@ import (
 	"github.com/Yandex-Practicum/tracker/internal/spentcalories"
 )
 
+// Комментарий, добавленный для того, чтобы можно было создать PR на GitHub
 func main() {
 	weight := 84.6
 	height := 1.87
